@@ -6,5 +6,3 @@ A new Flutter project.
 
 This is simple todo app where i have just fetched data from public api and binded with UI.
 (https://jsonplaceholder.typicode.com/todos)
-
-Some latest emulator restrict http request as i have used traditional http package for simplicity. Try running on browser if not getting data on emulator.
